@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Mohith
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square)](https://github.com/mohithrajuu)
 
 **AI/ML Engineer | GenAI • Agentic AI • RAG | LLMs in Production**
 
