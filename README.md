@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-AI/ML Engineer with **6 years of experience** building and deploying production machine learning, deep learning, and Generative AI systems across financial services, e-commerce, and manufacturing. I work on the practitioner side of LLMs — designing agentic workflows, RAG pipelines, and the MLOps/LLMOps plumbing that keeps them reliable in regulated environments.
+AI/ML Engineer with experience in building and deploying production machine learning, deep learning, and Generative AI systems across large-scale services, e-commerce, and manufacturing. I work on the practitioner side of LLMs — designing agentic workflows, RAG pipelines, and the MLOps/LLMOps plumbing that keeps them reliable in regulated environments.
 
 - **Generative AI & LLMs** — GPT-4, Claude, LLaMA, Azure OpenAI; prompt engineering, fine-tuning, evaluation
 - **Agentic AI** — LangChain, LangGraph, multi-agent orchestration, MCP tool integration, function calling
